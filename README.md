@@ -5,7 +5,7 @@
 This project contains implementations for MachineLearning by Stanford University at coursera - https://www.coursera.org/learn/machine-learning/home/welcome
 All the implementations are in Octave
 
-## Implementations
+## Implementations 'Author: Rohit Jain'
 
 1. Linear Regression with one variable
    Linear Regression with multiple variables
