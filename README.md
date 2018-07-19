@@ -8,6 +8,7 @@ All the implementations are in Octave
 ## Implementations (Author: Rohit Jain)
 
 1. Linear Regression with one variable
+
    Linear Regression with multiple variables
 
 2. Logistic Regression
