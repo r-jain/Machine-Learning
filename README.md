@@ -49,7 +49,7 @@ All the implementations are in Octave
 
    Principal Component Analysis
    
-   `Application : Image compression, low-dimensional representation of face images qnd reconstruction`
+   `Application : Image compression, low-dimensional representation of face images and reconstruction`
 
 8. Anomaly Detection
 
