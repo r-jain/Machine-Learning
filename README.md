@@ -46,12 +46,14 @@
     `Application : Spam Filter to classify emails into spam and non-spam email`
  
  7. K-means Clustering
-   Principal Component Analysis
+ 
+    Principal Component Analysis
    
    `Application : Image compression, low-dimensional representation of face images qnd reconstruction`
    `Application : Image compression, low-dimensional representation of face images and reconstruction`
    
 8. Anomaly Detection
+
    Recommender Systems
     
    `Application : Detect anomalous behavior in server computers. Recommender system for movies`
