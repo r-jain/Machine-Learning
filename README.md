@@ -50,7 +50,8 @@
    
    `Application : Image compression, low-dimensional representation of face images qnd reconstruction`
    `Application : Image compression, low-dimensional representation of face images and reconstruction`
+   
 8. Anomaly Detection
-    Recommender Systems
+   Recommender Systems
     
-`Application : Detect anomalous behavior in server computers. Recommender system for movies`
+   `Application : Detect anomalous behavior in server computers. Recommender system for movies`
