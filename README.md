@@ -2,8 +2,8 @@
  
  ## Synopsis
  
- This project contains implementations for MachineLearning by Stanford University at coursera - https://www.coursera.org/learn/machine-learning/home/welcome
- All the implementations are in Octave
+ This project contains implementations for MachineLearning by Stanford University at coursera - https://www.coursera.org/learn/machine-learning/home/welcome All the implementations are in Octave.
+ Stanford CS229 Playlist - https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
  
  ## Implementations (Author: Rohit Jain)
  
@@ -50,10 +50,21 @@
     Principal Component Analysis
    
     `Application : Image compression, low-dimensional representation of face images qnd reconstruction`
-    `Application : Image compression, low-dimensional representation of face images and reconstruction`
    
 8. Anomaly Detection
 
    Recommender Systems
     
    `Application : Detect anomalous behavior in server computers. Recommender system for movies`
+   
+## Topics Covered
+- Supervised and Unsupervised Learning
+- Linear and Logistic Regression, Cost Function and Gradient Descent
+- Neural Networks, Backpropagation and Optimizaition
+- Bias, Variance
+- Support Vector Machines and Kernels
+- Clustering algorithms, K Means, Dimensionality Reduction and Principal Components Analysis
+- Anomaly detection using K Nearest Neighbor and Gaussian Distribution
+- Recommender Systems: Content Based Recommendation and Collaborative Filtering
+- Large Scale Machine Learning
+- Training Sets, Validation Sets and Test Sets
