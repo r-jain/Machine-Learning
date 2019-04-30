@@ -2,8 +2,10 @@
  
  ## Synopsis
  
- This project contains implementations for MachineLearning by Stanford University at coursera - https://www.coursera.org/learn/machine-learning/home/welcome All the implementations are in Octave.
+ This project contains implementations for MachineLearning by Stanford University at coursera - https://www.coursera.org/learn/machine-learning/home/welcome 
  Stanford CS229 Playlist - https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
+ All the implementations are in Octave.
+ 
  
  ## Implementations (Author: Rohit Jain)
  
